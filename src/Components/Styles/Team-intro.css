@@ -1,0 +1,87 @@
+.team-intro {
+  margin-top: 50px;
+}
+.introImage {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.nav-head{
+  background-color: #053742;
+}
+.team-head {
+  color: #343f56;
+}
+
+.member {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.group {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.contact {
+  color: white;
+  background-color: #222831;
+}
+.contact-info {
+  margin: 20px 20% 0px 20%;
+}
+.contactIcon {
+  margin-right: 40%;
+  margin-left: 40%;
+}
+.babelMedia {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  color: white;
+}
+.iconList {
+  padding: 20px 20px 20px 20px;
+}
+.iconImg {
+  height: 40px;
+  width: 40px;
+}
+.follow {
+  padding-bottom: 10px;
+}
+.feedback {
+  padding-top: 30px;
+}
+.openings {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.skill {
+  margin-top: 30px;
+}
+.contactp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.fab 
+{
+  margin-left: 15px;
+  font-size: 30px;
+  color:rgb(2, 138, 216);
+
+}
+.fab:hover
+{
+  color:white;
+}
+
+.fas 
+{
+margin-left :15px;
+font-size: 25px;
+color:rgb(2, 138, 216);
+}
+
+.fas:hover 
+{
+  color:white;  
+  }

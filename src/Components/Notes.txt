@@ -1,0 +1,7 @@
+ eventsWinners.js location
+newsletter\src\Components
+
+
+other js files location
+
+newsletter\src\Components\Winners

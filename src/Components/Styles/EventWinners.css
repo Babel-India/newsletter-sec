@@ -1,0 +1,39 @@
+.events {
+  text-align: center;
+}
+.month {
+  text-align: center;
+  font-family: "Antic Slab", serif;
+  font-weight: bolder;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.eventDesc {
+  margin: 2% 15% 2% 15%;
+  font-family: "Playball", cursive;
+  font-size: 1.5rem;
+}
+.eventwin {
+  font-family: "Graduate", cursive;
+  text-align: center;
+  color: white;
+  background-color: #053742;
+}
+.eventLine {
+  border-top: 5px dotted;
+  margin: 0 30% 50px 30%;
+}
+.republicQuiz {
+  text-align: justify;
+}
+.quizSeprator {
+  border-top: 4px dotted #02475e;
+  margin: 40px 30% 40px 30%;
+}
+.last {
+  margin-bottom: 50px;
+}
+.event-name{
+  text-align: center;
+  font-family: "Crimson Text", serif;
+}
