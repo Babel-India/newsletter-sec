@@ -42,7 +42,7 @@ function SportsQuiz() {
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>22. Shubham Maurya   </Col>
-                    <Col xs={12} md={4}>23. Shushree Ray   </Col>
+                    <Col xs={12} md={4}>23. Sushree Ray   </Col>
                     <Col xs={12} md={4}>24. Umit Kumar Pradhan  </Col>
                 </Row>
             </Container>

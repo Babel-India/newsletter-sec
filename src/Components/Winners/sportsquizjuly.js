@@ -28,7 +28,7 @@ function SportsQuizjuly() {
                 <Row>
                     <Col xs={12}  md={4}>12. Paras Verma </Col>
                     <Col xs={12}  md={4}>10. Siddharth Aggarwal</Col>
-                    <Col xs={12}  md={4}>11. Sushree Rayt</Col>
+                    <Col xs={12}  md={4}>11. Sushree Ray</Col>
                 </Row>
             </Container>
         </div>
