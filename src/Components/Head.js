@@ -14,7 +14,7 @@ const head = () => {
     />
     <Carousel.Caption>
       <h3 className="news-name" >Keywords India Scoop</h3>
-      <p className="greetings" >Hello, Namaste, Sata srī akāla, Bonjour, Hallo, Hola Babel Family Welcome to one and only Babel News Platform!</p>
+      <p className="greetings" >Hello, Namaste, Sata srī akāla, Bonjour, Hallo, Hola Keywords Family Welcome to one and only Keywords News Platform!</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item interval={500}>
