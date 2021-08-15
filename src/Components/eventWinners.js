@@ -10,7 +10,7 @@ import Song from "./Winners/Song";
 import Fillgap from "./Winners/R&R";
 import Julyevents from './Winners/julyevents';
 import SportsQuizjuly from './Winners/sportsquizjuly';
-
+import AugustQuiz from './Winners/AugustQuiz';
 function eventWinners() {
     return(
         <div className='events' id='event'>
@@ -87,7 +87,7 @@ function eventWinners() {
                          <Fillgap/>
                     </Col>
                 </Row>
-
+                <hr className='quizSeprator' />
                 <h3 className='month'>July </h3>
                 <Row>
                     <Col className="republicQuiz last">
@@ -95,14 +95,26 @@ function eventWinners() {
                             <h5>Quiz:</h5>
                         </div>
                          <Julyevents />
+                         <hr className='quizSeprator' />
                     </Col>
                 </Row>
                 <Row>
                     <Col className="republicQuiz last">
                          <div className="event-name">
-                            <h5>Sports Quiz:</h5>
+                            <h5>Sports Quiz Winners:</h5>
                         </div>
                          <SportsQuizjuly />
+                         <hr className='quizSeprator' />
+                    </Col>
+                </Row>
+                <h3 className='month'>August </h3>
+                <Row>
+                    <Col className="republicQuiz last">
+                         <div className="event-name">
+                            <h5> Independence Day Quiz Winners:</h5>
+                        </div>
+                         <AugustQuiz />
+                         
                     </Col>
                 </Row>
                 
