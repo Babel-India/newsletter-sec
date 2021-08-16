@@ -9,6 +9,7 @@ import Vaccination from './Components/Vaccination';
 import Events from './Components/eventWinners';
 import Games from "./Components/Games";
 import Team from "./Components/Team";
+import Cricket from "./Components/Cricket";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Vaccination />
       <BSTC />
       <Events />
+      <Cricket />
       <Games />
       <Team />
     </div>

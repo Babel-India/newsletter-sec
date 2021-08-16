@@ -1,0 +1,18 @@
+.cricket-head{
+    font-family: "Graduate", cursive;
+    text-align: center;
+    color: white;
+    background-color: #053742;
+}
+.match{
+    margin-top: 50px;
+}
+.match-highlights{
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bolder;
+}
+.list{
+    font-family: 'Philosopher', sans-serif;
+    margin-right: 150 px;
+    margin-left: 150 px;
+}
