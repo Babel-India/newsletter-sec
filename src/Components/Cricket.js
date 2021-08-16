@@ -24,6 +24,10 @@ function Cricket() {
                                 </ListGroup.Item>
                                 <ListGroup.Item>With great batting show from Akash Varshney (83 in 46 balls) and small contribution from Akshat, Harpal and Rahul Solanki, batting team scored 201/5 in 20 overs.</ListGroup.Item>
                                 <ListGroup.Item>Chasing a target of more than 200 was not to be very easy for the chasing team and opening spell from Rahul Solanki and off spin from Harshit (4 wickets) made it nearly impossible task.
+                                </ListGroup.Item>
+                                <ListGroup.Item>Vinod Pati and Karan Sharma showed some resistance but it was not enough for the team.
+                                </ListGroup.Item>
+                                <ListGroup.Item>In the end, Babel storm won the match comfortably.
                                 </ListGroup.Item>  
                                 <Image  className="sports_image"   src={ require("../Images/Games/Scoreboard.png").default }   />             
                                 <Container>
