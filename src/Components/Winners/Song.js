@@ -6,24 +6,24 @@ function Song() {
         <div>
             <Container>
             <Row>
-                    <Col xs={12} md={4}>1. Giridhar Raut - Eustace Bagge   </Col>
-                    <Col xs={12} md={4}>2. Nishchay Bhatia - nikolaj    </Col>
-                    <Col xs={12} md={4}>3. Tarun Thusu - professor utonium    </Col>
+                    <Col xs={12} md={4}>1. Giridhar Raut</Col>
+                    <Col xs={12} md={4}>2. Nishchay Bhatia</Col>
+                    <Col xs={12} md={4}>3. Tarun Thusu  </Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>4. Rohit Jain - Fear o missing out of work   </Col>
-                    <Col xs={12} md={4}>5. Himanshu Prashar - ed edd eddie     </Col>
-                    <Col xs={12} md={4}>6.  Krishna Dhingra - Cinderella Law    </Col>
+                    <Col xs={12} md={4}>4. Rohit Jain </Col>
+                    <Col xs={12} md={4}>5. Himanshu Prashar </Col>
+                    <Col xs={12} md={4}>6.  Krishna Dhingra</Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>7. Rishav Kumar Dr. Hienz Doofenshmirtz    </Col>
-                    <Col xs={12} md={4}>8. Ritik Yadav - Nagini     </Col>
-                    <Col xs={12} md={4}>9. Saurabh Bhatt - 2.7 billion    </Col>
+                    <Col xs={12} md={4}>7. Rishav Kumar </Col>
+                    <Col xs={12} md={4}>8. Ritik Yadav</Col>
+                    <Col xs={12} md={4}>9. Saurabh Bhatt   </Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>10. Abhishek Uppal - patrick  </Col>
-                    <Col xs={12} md={4}>11. Chetanshu Sharma – True</Col>
-                    <Col xs={12} md={4}>12. Shashi Sharma - Avada Kedavra</Col>
+                    <Col xs={12} md={4}>10. Abhishek Uppal  </Col>
+                    <Col xs={12} md={4}>11. Chetanshu Sharma </Col>
+                    <Col xs={12} md={4}>12. Shashi Sharma</Col>
                 </Row>
             </Container>
         </div>
